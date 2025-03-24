@@ -31,9 +31,10 @@ The data preprocessing is done in the following notebooks:
 
 - `preprocess_statkraft_cerra.ipynb`: Handles preprocessing for the Statkraft CERRA dataset.
 - `preprocess_real.ipynb`: Handles preprocessing for the real-world dataset.
-- `src/altimetri.py`: Performs additional preprocessing on altimetrii data to extract elevation information.
+- `preprocess_altimetri.ipynb`: Performs additional preprocessing on altimetri data to extract elevation information.
 
 These notebooks clean, format, and prepare the data for analysis.
+
 
 ---
 
