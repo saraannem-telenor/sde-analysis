@@ -1,0 +1,4 @@
+.DS_Store
+.cache.sqlite
+.css
+statkraft_venv/
