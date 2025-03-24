@@ -1,0 +1,5 @@
+snow_depth_concatenated.nc
+# atnasjo_snow_model.nc
+
+other_data/*
+!other_data/.gitkeep
