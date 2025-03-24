@@ -1,0 +1,6 @@
+processed/*
+!processed/.gitkeep
+# processed_w_notebooks/*
+# !processed_w_notebooks/.gitkeep
+raw/*
+!raw/.gitkeep
